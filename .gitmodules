@@ -1,0 +1,3 @@
+[submodule "vendor/apple-dev"]
+	path = vendor/apple-dev
+	url = git@github.com:anodamobi/apple-dev.git
